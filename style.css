@@ -1,0 +1,29 @@
+body {
+    background-image: url("https://t3.ftcdn.net/jpg/02/11/52/42/360_F_211524227_Ett8aboQvVnROAFtqu3S1pW99Y3Th9vm.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 74vh;
+    padding-left: 40%;
+
+
+}
+.container{
+    text-align: center;
+    border: 1px solid black;
+    width: 37%;
+    border-radius: 8px;
+    margin-top: 20%;        
+}
+.container input{
+    padding: 3%;
+    border-radius: 8px;
+    border: 1px solid black;
+    
+    
+}
+.container button{
+    padding: 3%;
+   margin: 5%;
+   border-radius: 5px;
+   border: 1px solid black;
+}
